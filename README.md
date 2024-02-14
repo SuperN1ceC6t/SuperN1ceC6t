@@ -38,14 +38,6 @@
 
 ###
 
-<h2 align="left">Snake :></h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/SuperN1ceC6t/SuperN1ceC6t/output/snake.yml" alt="Snake animation" />
-
-###
-
 <h2 align="left">Links</h2>
 
 ###
