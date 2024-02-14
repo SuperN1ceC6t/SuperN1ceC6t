@@ -38,10 +38,6 @@
 
 ###
 
-<h2 align="left">Links</h2>
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/arsenii-mironov/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -53,5 +49,9 @@
 <h2 align="left">Spotify</h2>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qn67ealcdyctzvjqz5cvhwffye)
+
+###
+
+<h2 align="left">Links</h2>
 
 ###
