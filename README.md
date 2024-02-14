@@ -42,7 +42,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SuperN1ceC6t/SuperN1ceC6t/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SuperN1ceC6t/SuperN1ceC6t/output/snake.yml" alt="Snake animation" />
 
 ###
 
