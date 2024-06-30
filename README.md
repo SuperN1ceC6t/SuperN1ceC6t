@@ -51,7 +51,3 @@
 </div>
 
 ###
-
-<h2 align="left">My projects</h2>
-
-###
