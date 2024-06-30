@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Arsenii Mironov and I'm from Ukraine.</p>
+<p align="left">My name is Arsenii Mironov, and I am a FullStack Developer with one year of experience.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h1 align="left">Information</h1>
 
 ###
 
@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
@@ -38,12 +40,18 @@
 
 ###
 
-<h2 align="left">Links</h2>
+<h2 align="left">Link</h2>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/arsenii-mironov/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">My projects</h2>
 
 ###
